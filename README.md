@@ -15,10 +15,6 @@
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
@@ -27,12 +23,8 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  <a href="https://www.php.net/](https://dotnet.microsoft.com/es-es/languages/csharp">
+    <img alt="C#" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fitsoftware.com.co%2Fcontent%2Flenguaje-programacion-csharp%2F&psig=AOvVaw21dbD7DoBdcprMK85-TWD6&ust=1726611267987000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi93qu-yIgDFQAAAAAdAAAAABAE"/>
   </a>
 </p>
 
